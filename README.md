@@ -9,3 +9,5 @@ https://www.wired.com/story/new-tool-shows-how-bots-drive-conversation-for-news-
 https://medium.com/dfrlab/trolltracker-twitter-troll-farm-archives-8d5dd61c486b
 
 https://www.wired.com/story/twitter-abusive-apps-machine-learning
+
+https://www.securityweek.com/twitter-removes-30000-state-linked-manipulation-accounts
