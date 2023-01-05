@@ -13,3 +13,7 @@ https://www.wired.com/story/twitter-abusive-apps-machine-learning
 https://www.securityweek.com/twitter-removes-30000-state-linked-manipulation-accounts
 
 https://www.securityweek.com/twitter-shuts-down-four-networks-state-sponsored-disinformation-accounts
+
+https://archive.md/GFtbj
+
+https://www.bloomberg.com/news/articles/2022-11-16/social-media-accounts-helped-stoke-british-violence-rutgers-finds
