@@ -17,3 +17,5 @@ https://www.securityweek.com/twitter-shuts-down-four-networks-state-sponsored-di
 https://archive.md/GFtbj
 
 https://www.bloomberg.com/news/articles/2022-11-16/social-media-accounts-helped-stoke-british-violence-rutgers-finds
+
+https://news.cybersixgill.com/twitter-has-a-massive-dark-web-problem/
